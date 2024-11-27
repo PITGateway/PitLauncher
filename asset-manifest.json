@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PitLauncher/static/css/main.ea2a2eec.css",
-    "main.js": "/PitLauncher/static/js/main.7dd1ea1b.js",
+    "main.js": "/PitLauncher/static/js/main.b76e8887.js",
     "index.html": "/PitLauncher/index.html",
     "main.ea2a2eec.css.map": "/PitLauncher/static/css/main.ea2a2eec.css.map",
-    "main.7dd1ea1b.js.map": "/PitLauncher/static/js/main.7dd1ea1b.js.map"
+    "main.b76e8887.js.map": "/PitLauncher/static/js/main.b76e8887.js.map"
   },
   "entrypoints": [
     "static/css/main.ea2a2eec.css",
-    "static/js/main.7dd1ea1b.js"
+    "static/js/main.b76e8887.js"
   ]
 }
