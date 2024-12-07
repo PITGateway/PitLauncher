@@ -4,13 +4,13 @@
   "homepage": "https://PITGateway.github.io/PitLauncher/",
   "private": true,
   "dependencies": {
+    "@chaunnt/reactjs_buildpackageandnotify": "^1.0.32",
     "axios": "^1.7.7",
     "cors": "^2.8.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.28.0",
     "react-scripts": "5.0.1",
-    "@chaunnt/reactjs_buildpackageandnotify": "1.0.31",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
